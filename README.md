@@ -3,7 +3,7 @@
 
 ## Pathway description
 
-1001XR is the strict open-commons allocator specializing in verifiably reproducible, openly licensed datasets with clear public benefit. Clients who publish a public reproducibility pipeline receive priority and <24 h approvals. Highest standards of transparency and legal compliance – no enterprise/private data ever.
+1001XR is the strict open-commons allocator specializing in verifiably reproducible, openly licensed datasets with clear public benefit. Clients who publish a public reproducibility pipeline receive priority and < 72 h  approvals. Highest standards of transparency and legal compliance – no enterprise/private data ever.
 
 ## Allocator JSON Link
 https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1001xr.json  
@@ -40,7 +40,7 @@ We exclusively serve open-commons clients and apply the following layered verifi
 
 4. **Audit Trail**  
    - All verification evidence (anonymized where required) is permanently stored in https://github.com/meiiss4/1001xr-Bookkeeping  
-   - Complete trail available to Governance within 7*24 hours of request
+   - Complete trail available to Governance within 72 h  hours of request
 
 ## Description of Data Diligence
 
@@ -74,9 +74,9 @@ We perform rigorous pre-allocation checks tailored to open, reproducible dataset
 1. Only openly licensed, public-benefit datasets  
 2. Reproducibility pipeline mandatory for ≥10 TiB  
 3. Strict tranche schedule enforced (5/10/15/20/25%, never 2× previous)  
-4. New clients capped at 50 TiB initial allocation  
+4. New clients capped at 100 TiB initial allocation  
 5. From tranche 3: ≥3 unrelated SPs + ≥2 continents  
-6. Max 150 TiB/week per verified entity  
+6. Max 1 PiB/week per verified entity  
 7. All allocations require human review (no automation bypass)
 
 ## Risk Mitigation Strategies
@@ -99,6 +99,6 @@ We perform rigorous pre-allocation checks tailored to open, reproducible dataset
 
 - All records public in this repo from day one  
 - Monthly automated compliance reports (/audits folder)  
-- Quarterly retrieval testing on ≥10% of deals >50 TiB  
+- Quarterly retrieval testing on ≥10% of deals >10 TiB  
 - Annual external audit starting 2026 (report published)  
 - Full cooperation with Governance audits (additional records within 72 h of signed request)
