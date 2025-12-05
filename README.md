@@ -1,7 +1,7 @@
 # Allocator Bookkeeping Repository for 1001XR
 
 
-## Short Description of Pathway for 1001xr
+## Pathway description
 
 1001XR is the strict open-commons allocator specializing in verifiably reproducible, openly licensed datasets with clear public benefit. Clients who publish a public reproducibility pipeline receive priority and <24 h approvals. Highest standards of transparency and legal compliance – no enterprise/private data ever.
 
