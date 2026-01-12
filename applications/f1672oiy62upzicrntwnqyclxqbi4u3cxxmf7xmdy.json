@@ -35,11 +35,11 @@
     "Weekly Allocation": "1 PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2026-01-12 19:19:28.909502886 UTC",
+    "State": "Granted",
+    "Validated At": "2026-01-12 19:21:03.372635378 UTC",
     "Validated By": "meiiss4",
     "Active": true,
-    "Updated At": "2026-01-12 19:19:28.909508903 UTC",
+    "Updated At": "2026-01-12 19:21:03.372629747 UTC",
     "Active Request ID": "bd6501ae-6af7-43b0-b3d6-489c598c1f40",
     "On Chain Address": "f1672oiy62upzicrntwnqyclxqbi4u3cxxmf7xmdy",
     "Multisig Address": "false",
@@ -99,9 +99,16 @@
       "Request Type": "Refill",
       "Created At": "2026-01-12 19:19:28.909520916 UTC",
       "Updated At": "2026-01-12 19:19:28.909521725 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "562949953421312B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "meiiss4",
+          "Signing Address": "f1usb2hzywykvbv6fcgjg3gc7msszqfrzgvdr4l7a",
+          "Created At": "2026-01-12 19:21:01.230000000 UTC",
+          "Message CID": "bafy2bzaceaqyswc4nb56eon35yzvnrrcxjllsqrafn5usdfdvuxccdks3xsle"
+        }
+      ]
     }
   ]
 }
