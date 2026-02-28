@@ -35,15 +35,25 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "KYCRequested",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2026-02-28 07:23:22.283035237 UTC",
+    "Validated By": "meiiss4",
     "Active": true,
-    "Updated At": "2026-02-28 04:08:05.941231621 UTC",
-    "Active Request ID": "",
+    "Updated At": "2026-02-28 07:23:22.283040094 UTC",
+    "Active Request ID": "7b2d2f1a-d1e1-4829-bf26-f9a94731f677",
     "On Chain Address": "f1g6l7yb6azdagw2m7d77kwwr54kdteckc36itp6y",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "7b2d2f1a-d1e1-4829-bf26-f9a94731f677",
+      "Request Type": "First",
+      "Created At": "2026-02-28 07:23:22.283042226 UTC",
+      "Updated At": "2026-02-28 07:23:22.283043326 UTC",
+      "Active": true,
+      "Allocation Amount": "281474976710656 B",
+      "Signers": []
+    }
+  ]
 }
